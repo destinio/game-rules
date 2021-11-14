@@ -10,8 +10,6 @@ But some players are traitors, sent aboard the ship by the Deep Ones to ensure t
 
 Because player loyalties are hidden, determining who is friend and who is foe is critical to winning.
 
----
-
 During the game, the human players arm themselves with items, fight Deep Ones, rescue passengers, and make sure that the ship stays afloat. 
 
 At the end of every human player’s turn is a crisis that either poses a difficult decision for one player or challenges all players to work together to overcome the crisis. 
@@ -237,3 +235,61 @@ they are loyal humans.
           * Sick Bay
     * Characters and Deep Ones **can** move to ship spaces.
     * Monarchs (Father Dagon and Mother Hydra) **cannot** move to ship spaces.
+
+## PLAYING THE GAME
+
+* Played in a series of player turns. Starting with the first player and proceeding clockwise.
+* Players continue to take turns until the game ends
+* The player who is taking their turn and has the current player token is the current player.
+
+### A TURN
+1. RECEIVE SKILLS
+  * Draw the type and number of skill cards that are presented on their character sheet
+  * Adds them to their hand of skill cards. 
+  * The type and number of skill cards is the character’s skill set.
+  * Players who are in the **sick bay** are recovering from injuries and therefore do not receive their full skill cards.
+    * They draw **only one** card of their choice from their skill set.
+  * Playing skill cards.
+    * Each skill card has an ability on it. To use that ability, a player can play that card from their hand during **any player’s turn**. 
+    * After a skill card’s ability has resolved, that card is placed into the discard pile for skill cards of that card’s type.
+2. ACTION
+  * Perform two actions
+  * One at a time. 
+  * The player can perform the same action twice. 
+  * The actions a player can perform on their turn are: 
+    * **MOVE**
+      *  Any ship space on the board other than **Sick Bay and the Brig**. 
+      * Multiple characters can occupy the same space.
+    * **ATTACK**
+      * perform an attack against a Deep One in the same space as the player. 
+      * To perform an attack, the player rolls the die. If the result is a: 
+        * **4 or higher**, the Deep One is defeated and removed from the board. 
+        * **1-3**: the attack misses and the Deep One remains where it is.
+    * **RESCUE A PASSENGER**
+      * If a passenger is defeated, it can cause the ship to lose **souls and sanity**. 
+      * If the player is in the same space as a passenger token, they can spend one action to rescue that passenger. 
+      * When a passenger is rescued, its token is removed from the board and returned to the supply of passenger tokens. 
+      * If there is more than one passenger token in the space, the player can choose one of those passengers to rescue for each action spent.
+    * **USE AN ACTION ABILITY**
+      * An action ability is preceded by the word **Action**
+      * Can appear on character sheets and many types of cards, such as skill cards and item cards.
+      * That ability must be on a card in the player’s play area or on a skill card in the player’s hand. 
+      * To use an action ability on a skill card, the player must reveal the card to everyone, resolve the card by following its instructions, and then discard the card. 
+      * When a player resolves the action ability on a card in their play area, they do not discard that card.
+      * **ADDITIONAL ACTIONS**
+        * Some action abilities have the phrase **Then perform 1 action**. 
+        * Such abilities allow the player to immediately perform another action. 
+        * This can allow a player to perform more than two actions during their turn.
+    * **USE A SPACE’S ACTION ABILITY**
+      * If the player is in an interior space, that player can spend one action to use the action ability for that space
+      * The action for each interior space may **only be used once per turn**. 
+      * A player cannot use the action for their space if there is at least one Deep One in that space.
+    * **TRADE**
+      * Each player begins the game with the item card specified on their character’s sheet. 
+      * Items provide players with additional abilities that they can use. 
+      * Players can gain more items from the Cargo Hold. 
+      * The player can spend one action to allow any number of players to trade items. 
+      * Any number of items can be traded, and trades do not require the current player to be involved, **but all players involved in a trade must be in the current player’s space.**
+    * **REVEAL AS A TRAITOR**
+3. MYTHOS
+4. DISCARD
