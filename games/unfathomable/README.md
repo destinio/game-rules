@@ -44,7 +44,7 @@ If the ship sinks before it can reach its final destination, the traitors win.
 ### 2. SET DIALS
   * Set each resource dial to its starting value of 8
 
-### 3. EATE SUPP
+### 3. CREATE SUPPLY
   * Place the Deep One figures,
   * passenger tokens
   * traitor rings
@@ -53,14 +53,14 @@ If the ship sinks before it can reach its final destination, the traitors win.
 
 ### 4. CREATE SKILL DECKS
   * Separate the skill cards by type
-    * influence
-    * lore-
-    * observation
-    * strength
-    * will
-    * treachery
-  * shuffle each type into its own deck
-  * place each deck face down beside the game board next to the corresponding label.
+    * *Influence*
+    * *Lore*
+    * *Observation*
+    * *Strength*
+    * *Will*
+    * *Treachery*
+  * Shuffle each type into its own deck
+  * Place each deck face down beside the game board next to the corresponding label.
 
 ### 5. CREATE DAMAGE AND MYTHOS DECKS
   * Shuffle the damage deck and place it beside the game board next to its label.
@@ -70,7 +70,7 @@ If the ship sinks before it can reach its final destination, the traitors win.
   * Place Father Dagon and Mother Hydra in the Deep.
   * Place six additional Deep Ones and two passenger tokens as shown.
     * 2 front waters
-    * space 1 and 5
+      * space 1 and 5
     * passengers in 3 and 4
 
 ### 7. CREATE CHAOS DECK
@@ -152,38 +152,41 @@ they are loyal humans.
 ### LOYALTIES
 
 * Some players will be loyal to the humans trying to reach dry land, and some will be loyal to the Deep Ones intent on sinking the ship.
-* loyalty cards remain secret.
+* Loyalty cards remain secret.
 * Three Types
-  * Human
-  * Hybrid
-  * Cultist - for more people
+  * *Human*
+  * *Hybrid*
+  * *Cultist* - for more people
 
 ### MONSTERS AND MONARCHS
 
 * There are three types of monsters in the game
-* Father Dagon
-* Mother Hydra
-* Deep Ones.
+  * *Father Dagon*
+  * *Mother Hydra*
+  * *Deep Ones*
 * Father Dagon and Mother Hydra are collectively referred to as **monarchs**.
 
 ### RESOURCES
 
 * There are four resources critical for the ship’s survival, which are tracked by the four resource dials on the board.
-  * **FUEL:** This dial represents the Atlantica’s fuel reserves.
-  * **FOOD:** This dial represents the food and water required to keep the people aboard the ship alive.
-  * **SANITY:** This dial represents the sanity and morale of the crew and passengers. Operating the ship becomes impossible if those aboard lose their grip on reality.
-  * **SOULS:** This dial represents the people aboard the Atlantica, both passengers and crew. Operating the ship becomes impossible if there are too few people.
+  * **FUEL:** 
+    *This dial represents the Atlantica’s fuel reserves.
+  * **FOOD:** 
+    * This dial represents the food and water required to keep the people aboard the ship alive.
+  * **SANITY:** 
+    * This dial represents the sanity and morale of the crew and passengers. Operating the ship becomes impossible if those aboard lose their grip on reality.
+  * **SOULS:** 
+    * This dial represents the people aboard the Atlantica, both passengers and crew. Operating the ship becomes impossible if there are too few people.
 * During the game, loyal humans must ration and
   preserve these resources while traitors strive to deplete them.
-* Typically, fuel is lost when the ship travels, food
-  and sanity are lost when resolving crises, and souls are lost when
-  passengers are defeated
+  * Fuel is lost when the ship travels, 
+  * food and sanity are lost when resolving crises 
+  * souls are lost when passengers are defeated
 
 ### Skills
 
-* Skills represent common abilities shared by the characters in the
-  game. Players use their skills to defend or sabotage the ship and to
-  bring about resolutions to the crises that affect all players.
+* Skills represent common abilities shared by the characters in the game. 
+* Players use their skills to defend or sabotage the ship and to bring about resolutions to the crises that affect all players.
 * Each character has their own skill set that is presented on their character sheet and determines which skills the character has access to during the game.
 * There are six skills in the game:
   * **Influence**
