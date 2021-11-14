@@ -4,91 +4,85 @@
 
 ## OVERVIEW
 
-Unfathomable is a game of hidden loyalties, intrigue, and
-paranoia for three to six players. Some players are humans who are
-fighting for the survival of the ship, its passengers, and its crew. But
-some players are traitors, sent aboard the SS Atlantica by the Deep
-Ones to ensure the ship never reaches port! Because player loyalties
-are hidden, determining who is friend and who is foe is critical to
-winning in Unfathomable.
+Unfathomable is a game of hidden loyalties, intrigue, and paranoia. Some players are humans who are fighting for the survival of the ship (SS Atlantica), its passengers, and its crew. 
 
-During the game, the human players arm themselves with items,
-fight Deep Ones, rescue passengers, and make sure that the ship
-stays afloat. At the end of every human player’s turn is a crisis that
-either poses a difficult decision for one player or challenges all
-players to work together to overcome the crisis. If the humans can
-work together successfully, the ship will eventually reach port,
-resulting in a win for the humans.
+But some players are traitors, sent aboard the ship by the Deep Ones to ensure the ship never reaches port! 
 
-However, the traitors are hiding among the humans, secretly
-sabotaging the ship and doing all they can to ensure its doom. If the
-ship sinks before it can reach its final destination, the traitors win.
+Because player loyalties are hidden, determining who is friend and who is foe is critical to winning.
+
+---
+
+During the game, the human players arm themselves with items, fight Deep Ones, rescue passengers, and make sure that the ship stays afloat. 
+
+At the end of every human player’s turn is a crisis that either poses a difficult decision for one player or challenges all players to work together to overcome the crisis. 
+
+If the humans can work together successfully, the ship will eventually reach port, resulting in a win for the humans.
+
+However, the traitors are hiding among the humans, secretly sabotaging the ship and doing all they can to ensure its doom. 
+
+If the ship sinks before it can reach its final destination, the traitors win.
 
 ## OBJECT OF THE GAME
 
 **For players who are loyal humans**
 
-The object of the game is to usher the SS Atlantica to safety at its destination port of Boston. How this is accomplished is described later.
+The object of the game is to usher the SS Atlantica to safety at its destination port of Boston.
 
 **For traitor players**
 
-Loyal to the Deep Ones, the object of the game is to prevent the SS Atlantica from completing its voyage. This occurs if the ship is destroyed, overrun by Deep Ones, or depleted of any of its critical resources, all of which are described later.
+Loyal to the Deep Ones, the object of the game is to prevent the SS Atlantica from completing its voyage.
 
-===
+This occurs if the ship is:
+* destroyed
+* overrun by Deep Ones
+* depleted of any of its critical resources
+
+---
 
 ## Set Up
 
 1. SET TRACKS
-
-- Place the **travel** and **ritual** track tokens on the Start space of their respective tracks.
-
+  * Place the **travel** and **ritual** track tokens on the Start space of their respective tracks.
 2. SET DIALS
-
-- Set each resource dial to its starting value of 8
+  * Set each resource dial to its starting value of 8
 
 3. CREATE SUPPLY
-
-- Place the Deep One figures,
-- passenger tokens
-- traitor rings
-- eight-sided die next to the board.
-- Flip all passenger tokens facedown and mix them thoroughly
+  * Place the Deep One figures,
+  * passenger tokens
+  * traitor rings
+  * eight-sided die next to the board.
+  * Flip all passenger tokens facedown and mix them thoroughly
 
 4. CREATE SKILL DECKS
-
-- Separate the skill cards by type
-  - influence
-  - lore-
-  - observation
-  - strength
-  - will
-  - treachery
-- shuffle each type into its own deck
-- place each deck face down beside the game board next to the corresponding label.
+  * Separate the skill cards by type
+    * influence
+    * lore-
+    * observation
+    * strength
+    * will
+    * treachery
+  * shuffle each type into its own deck
+  * place each deck face down beside the game board next to the corresponding label.
 
 5. CREATE DAMAGE AND MYTHOS DECKS
-
-- Shuffle the damage deck and place it beside the game board next to its label.
-- Shuffle the mythos deck and place it near the board.
+  * Shuffle the damage deck and place it beside the game board next to its label.
+  * Shuffle the mythos deck and place it near the board.
 
 6. PLACE MONSTERS AND PASSENGERS
-
-- Place Father Dagon and Mother Hydra in the Deep.
-- Place six additional Deep Ones and two passenger tokens as shown.
-  - 2 front waters
-  - space 1 and 5
-  - passengers in 3 and 4
+  * Place Father Dagon and Mother Hydra in the Deep.
+  * Place six additional Deep Ones and two passenger tokens as shown.
+    * 2 front waters
+    * space 1 and 5
+    * passengers in 3 and 4
 
 7. CREATE CHAOS DECK
-
-- Take two cards from each skill deck (except treachery) and, without looking at them, shuffle them together to create the chaos deck.
-- Place the deck in the chaos deck space on the board.
+  * Take two cards from each skill deck (except treachery) and, without looking at them, shuffle them together to create the chaos deck.
+  * Place the deck in the chaos deck space on the board.
 
 8. SELECT CHARACTERS
-
-- Randomly select a player to be the current player and give them the current player token.
-- Starting with the current player and proceeding clockwise, each player chooses one character to play and takes that character’s sheet.
-- Return the remaining character sheets to the game box.
+  * Randomly select a player to be the current player and give them the current player token.
+  * Starting with the current player and proceeding clockwise, each player chooses one character to play and takes that character’s sheet.
+  * Return the remaining character sheets to the game box.
 
 ```
 Suggested Characters
@@ -112,32 +106,26 @@ Gedroits, William Bowleg
 ```
 
 9. CREATE PLAY AREAS
-
-- Each player takes the feat card and standee that matches their chosen character as well as a double-sided player reference sheet and places them in their play area.
+   * Each player takes the feat card and standee that matches their chosen character as well as a double-sided player reference sheet and places them in their play area.
 
 10. GATHER ITEMS
-
-- Each player takes the starting item listed on the back of their character sheet from the item deck and places it faceup in their play area.
-- Shuffle the remaining items to create the item deck and place it beside the game board next to its label.
+   * Each player takes the starting item listed on the back of their character sheet from the item deck and places it faceup in their play area.
+   * Shuffle the remaining items to create the item deck and place it beside the game board next to its label.
 
 11. PLACE CHARACTERS
-
-- Each player places the standee for their chosen character in the starting space on the board listed on the back of their character sheet.
+   * Each player places the standee for their chosen character in the starting space on the board listed on the back of their character sheet.
 
 12. DRAW SKILL CARDS
-
-- Each player **except the current player** draws the five skill cards listed at the bottom of their chosen character’s sheet. The current player does not start the game with any cards in hand.
+   * Each player **except the current player** draws the five skill cards listed at the bottom of their chosen character’s sheet. The current player does not start the game with any cards in hand.
 
 13. CREATE WAYPOINT DECK
-
-- Shuffle the waypoint cards and give the deck and the Captain title card to the player with the character who is highest on the Captain Line of Succession list (provided on the back of the Captain title card).
+   * Shuffle the waypoint cards and give the deck and the Captain title card to the player with the character who is highest on the Captain Line of Succession list (provided on the back of the Captain title card).
 
 14. CREATE SPELL DECK
-
-- Shuffle the spell cards and give the deck and the Keeper of the Tome title card to the player with the character who is highest on the Keeper Line of Succession list (provided on the back of the Keeper of the Tome title card).
+   * Shuffle the spell cards and give the deck and the Keeper of the Tome title card to the player with the character who is highest on the Keeper Line of Succession list (provided on the back of the Keeper of the Tome title card).
 
 15. CREATE LOYALTY DECK
-    Create the loyalty deck by combining the loyalty cards listed below according to the number of players.
+  Create the loyalty deck by combining the loyalty cards listed below according to the number of players.
 
 | PLAYER COUNT         | 3 4 5 6  |
 | -------------------- | -------- |
