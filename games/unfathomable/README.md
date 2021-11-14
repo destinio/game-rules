@@ -22,11 +22,11 @@ If the ship sinks before it can reach its final destination, the traitors win.
 
 ## OBJECT OF THE GAME
 
-**For players who are loyal humans**
+### **For players who are loyal humans**
 
 The object of the game is to usher the SS Atlantica to safety at its destination port of Boston.
 
-**For traitor players**
+### **For traitor players**
 
 Loyal to the Deep Ones, the object of the game is to prevent the SS Atlantica from completing its voyage.
 
@@ -39,19 +39,19 @@ This occurs if the ship is:
 
 ## Set Up
 
-1. SET TRACKS
+### 1. **SET TRACKS**
   * Place the **travel** and **ritual** track tokens on the Start space of their respective tracks.
-2. SET DIALS
+### 2. SET DIALS
   * Set each resource dial to its starting value of 8
 
-3. CREATE SUPPLY
+### 3. **CREATE SUPPLY**
   * Place the Deep One figures,
   * passenger tokens
   * traitor rings
   * eight-sided die next to the board.
   * Flip all passenger tokens facedown and mix them thoroughly
 
-4. CREATE SKILL DECKS
+### 4. **CREATE SKILL DECKS**
   * Separate the skill cards by type
     * influence
     * lore-
@@ -62,22 +62,22 @@ This occurs if the ship is:
   * shuffle each type into its own deck
   * place each deck face down beside the game board next to the corresponding label.
 
-5. CREATE DAMAGE AND MYTHOS DECKS
+### 5. **CREATE DAMAGE AND MYTHOS DECKS**
   * Shuffle the damage deck and place it beside the game board next to its label.
   * Shuffle the mythos deck and place it near the board.
 
-6. PLACE MONSTERS AND PASSENGERS
+### 6. **PLACE MONSTERS AND PASSENGERS**
   * Place Father Dagon and Mother Hydra in the Deep.
   * Place six additional Deep Ones and two passenger tokens as shown.
     * 2 front waters
     * space 1 and 5
     * passengers in 3 and 4
 
-7. CREATE CHAOS DECK
+### 7. **CREATE CHAOS DECK**
   * Take two cards from each skill deck (except treachery) and, without looking at them, shuffle them together to create the chaos deck.
   * Place the deck in the chaos deck space on the board.
 
-8. SELECT CHARACTERS
+### 8. **SELECT CHARACTERS**
   * Randomly select a player to be the current player and give them the current player token.
   * Starting with the current player and proceeding clockwise, each player chooses one character to play and takes that character’s sheet.
   * Return the remaining character sheets to the game box.
@@ -103,26 +103,27 @@ Jamie Snell, Samira Dualeh, Svetlana
 Gedroits, William Bowleg
 ```
 
-9. CREATE PLAY AREAS
+### 9. **CREATE PLAY AREAS**
    * Each player takes the feat card and standee that matches their chosen character as well as a double-sided player reference sheet and places them in their play area.
 
-10. GATHER ITEMS
+### 10. **GATHER ITEMS**
    * Each player takes the starting item listed on the back of their character sheet from the item deck and places it faceup in their play area.
    * Shuffle the remaining items to create the item deck and place it beside the game board next to its label.
 
-11. PLACE CHARACTERS
+### 11. **PLACE CHARACTERS**
    * Each player places the standee for their chosen character in the starting space on the board listed on the back of their character sheet.
 
-12. DRAW SKILL CARDS
-   * Each player **except the current player** draws the five skill cards listed at the bottom of their chosen character’s sheet. The current player does not start the game with any cards in hand.
+### 12. **DRAW SKILL CARDS**
+   * Each player **except the current player** draws the five skill cards listed at the bottom of their chosen character’s sheet. 
+   * The current player **does not start the game with any cards in hand**.
 
-13. CREATE WAYPOINT DECK
+### 13. **CREATE WAYPOINT DECK**
    * Shuffle the waypoint cards and give the deck and the Captain title card to the player with the character who is highest on the Captain Line of Succession list (provided on the back of the Captain title card).
 
-14. CREATE SPELL DECK
+### 14. **CREATE SPELL DECK**
    * Shuffle the spell cards and give the deck and the Keeper of the Tome title card to the player with the character who is highest on the Keeper Line of Succession list (provided on the back of the Keeper of the Tome title card).
 
-15. CREATE LOYALTY DECK
+### 15. **CREATE LOYALTY DECK**
   Create the loyalty deck by combining the loyalty cards listed below according to the number of players.
 
 | PLAYER COUNT         | 3 4 5 6  |
@@ -136,7 +137,7 @@ Loyalty Cards
 During a standard game of Unfathomable,
 players are dealt a secret loyalty card to begin
 the game (see the Rules Reference for standard
-setup). For your first game, players start without
+### setup). For your first game, players start without
 any loyalty cards in order to familiarize everyone
 with the game rules in an atmosphere where
 players can feel free to ask questions. Loyalty
@@ -243,7 +244,7 @@ they are loyal humans.
 * The player who is taking their turn and has the current player token is the current player.
 
 ### A TURN
-1. RECEIVE SKILLS
+1. **RECEIVE SKILLS**
   * Draw the type and number of skill cards that are presented on their character sheet
   * Adds them to their hand of skill cards. 
   * The type and number of skill cards is the character’s skill set.
@@ -252,7 +253,7 @@ they are loyal humans.
   * Playing skill cards.
     * Each skill card has an ability on it. To use that ability, a player can play that card from their hand during **any player’s turn**. 
     * After a skill card’s ability has resolved, that card is placed into the discard pile for skill cards of that card’s type.
-2. ACTION
+2. **ACTION**
   * Perform two actions
   * One at a time. 
   * The player can perform the same action twice. 
@@ -291,5 +292,5 @@ they are loyal humans.
       * The player can spend one action to allow any number of players to trade items. 
       * Any number of items can be traded, and trades do not require the current player to be involved, **but all players involved in a trade must be in the current player’s space.**
     * **REVEAL AS A TRAITOR**
-3. MYTHOS
-4. DISCARD
+3. **MYTHOS**
+4. **DISCARD**
