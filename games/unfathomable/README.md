@@ -1,4 +1,4 @@
-![Unfathomabl](/logo.png 'Unfathomable')
+![Unfathomabl](./logo.png 'Unfathomable')
 
 # Unfathomable
 
