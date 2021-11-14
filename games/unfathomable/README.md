@@ -152,88 +152,88 @@ they are loyal humans.
 
 ### LOYALTIES
 
-- Some players will be loyal to the humans trying to reach dry land, and some will be loyal to the Deep Ones intent on sinking the ship.
-- loyalty cards remain secret.
-- Three Types
-  - Human
-  - Hybrid
-  - Cultist - for more people
+* Some players will be loyal to the humans trying to reach dry land, and some will be loyal to the Deep Ones intent on sinking the ship.
+* loyalty cards remain secret.
+* Three Types
+  * Human
+  * Hybrid
+  * Cultist - for more people
 
 ### MONSTERS AND MONARCHS
 
-- There are three types of monsters in the game
-- Father Dagon
-- Mother Hydra
-- Deep Ones.
-- Father Dagon and Mother Hydra are collectively referred to as **monarchs**.
+* There are three types of monsters in the game
+* Father Dagon
+* Mother Hydra
+* Deep Ones.
+* Father Dagon and Mother Hydra are collectively referred to as **monarchs**.
 
 ### RESOURCES
 
-- There are four resources critical for the ship’s survival, which are tracked by the four resource dials on the board.
-  - FUEL: This dial represents the Atlantica’s fuel reserves.
-  - FOOD: This dial represents the food and water required to keep the people aboard the ship alive.
-  - SANITY: This dial represents the sanity and morale of the crew and passengers. Operating the ship becomes impossible if those aboard lose their grip on reality.
-  - SOULS: This dial represents the people aboard the Atlantica, both passengers and crew. Operating the ship becomes impossible if there are too few people.
-- During the game, loyal humans must ration and
+* There are four resources critical for the ship’s survival, which are tracked by the four resource dials on the board.
+  * FUEL: This dial represents the Atlantica’s fuel reserves.
+  * FOOD: This dial represents the food and water required to keep the people aboard the ship alive.
+  * SANITY: This dial represents the sanity and morale of the crew and passengers. Operating the ship becomes impossible if those aboard lose their grip on reality.
+  * SOULS: This dial represents the people aboard the Atlantica, both passengers and crew. Operating the ship becomes impossible if there are too few people.
+* During the game, loyal humans must ration and
   preserve these resources while traitors strive to deplete them.
-- Typically, fuel is lost when the ship travels, food
+* Typically, fuel is lost when the ship travels, food
   and sanity are lost when resolving crises, and souls are lost when
   passengers are defeated
 
 ### Skills
 
-- Skills represent common abilities shared by the characters in the
+* Skills represent common abilities shared by the characters in the
   game. Players use their skills to defend or sabotage the ship and to
   bring about resolutions to the crises that affect all players.
-- There are six skills in the game:
-  - influence
-  - lore
-  - observation
-  - strength
-  - will
-  - treachery
-- Each character has their own skill set that is presented on their
+* There are six skills in the game:
+  * influence
+  * lore
+  * observation
+  * strength
+  * will
+  * treachery
+* Each character has their own skill set that is presented on their
   character sheet and determines which skills the character has access
   to during the game.
 
 #### SKILL CHECKS
 
-- Skill checks represent situations in which players work together as a
+* Skill checks represent situations in which players work together as a
   group to resolve crisis situations.
-- Because the loyalties and goals of
+* Because the loyalties and goals of
   each player are unknown, it is never completely clear who is working
   to help overcome the crisis, and who is working to make it worse.
-- During a skill check, players can secretly add cards from their hand
+* During a skill check, players can secretly add cards from their hand
   to the check in an effort to cause the check to pass or fail.
-- Players cannot be certain who tried to help overcome the crisis and who tried to sabotage that effort because players add their cards in secret, along with random cards from a chaos deck.
+* Players cannot be certain who tried to help overcome the crisis and who tried to sabotage that effort because players add their cards in secret, along with random cards from a chaos deck.
 
 ### THE BOARD
 
 #### THE DEEP
 
-- a portion of the board that represents the depths of the ocean where the monsters muster and regroup.
-- Monsters that are in the Deep **cannot** be affected by player abilities.
+* a portion of the board that represents the depths of the ocean where the monsters muster and regroup.
+* Monsters that are in the Deep **cannot** be affected by player abilities.
 
 #### SPACES
 
-- The portion of the board that depicts the SS Atlantica and the surrounding waters is divided into spaces.
-- There are two types of spaces:
-  - **Water spaces**
-    - outermost spaces on the board.
-    - Two of these spaces are numbered “1–4” and “5–8.”
-      - These two spaces make up the front of the ship.
-    - The water spaces at the opposite end of the board are the back of the ship.
-    - Only monsters can move to water spaces. Characters cannot move to water spaces.
-  - **Ship spaces**
-    - Two subtypes:
-      - **Deck spaces**
-        - a ring around the interior spaces and are numbered from 1 to 8.
-      - **Interior spaces**
-        - Have a name and a brief description of their game function.
-        - The complete text for these game effects is on the player reference sheets.
-        - Most interior spaces have one or more numbers from 1 to 8.
-        - The two interior spaces without numbers
-          - The Brig
-          - Sick Bay
-    - Characters and Deep Ones **can** move to ship spaces.
-    - Monarchs (Father Dagon and Mother Hydra) **cannot** move to ship spaces.
+* The portion of the board that depicts the SS Atlantica and the surrounding waters is divided into spaces.
+* There are two types of spaces:
+  * **Water spaces**
+    * outermost spaces on the board.
+    * Two of these spaces are numbered “1–4” and “5–8.”
+      * These two spaces make up the front of the ship.
+    * The water spaces at the opposite end of the board are the back of the ship.
+    * Only monsters can move to water spaces. Characters cannot move to water spaces.
+  * **Ship spaces**
+    * Two subtypes:
+      * **Deck spaces**
+        * a ring around the interior spaces and are numbered from 1 to 8.
+      * **Interior spaces**
+        * Have a name and a brief description of their game function.
+        * The complete text for these game effects is on the player reference sheets.
+        * Most interior spaces have one or more numbers from 1 to 8.
+        * The two interior spaces without numbers
+          * The Brig
+          * Sick Bay
+    * Characters and Deep Ones **can** move to ship spaces.
+    * Monarchs (Father Dagon and Mother Hydra) **cannot** move to ship spaces.
