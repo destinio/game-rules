@@ -2,4 +2,4 @@
 
 Converted by [Destin Lee](https://destin.io 'Destin Lee Website')
 
-[Unfathomabl](/games/unfathomable/README.md)
+[Unfathomable](/games/unfathomable/README.md)
